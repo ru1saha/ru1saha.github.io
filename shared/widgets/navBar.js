@@ -2,7 +2,7 @@
  * Created by nakulchawla on 11/10/16.
  */
 (function () {
-    angular.module('appNakul').directive('nkNavBar', function () {
+    angular.module('appRudra').directive('nkNavBar', function () {
         return {
             restrict: 'AE',
             controller: 'homeCtrl',
@@ -21,7 +21,7 @@
     });
 
 
-    angular.module('appNakul').directive('nkNavBarFooter', function () {
+    angular.module('appRudra').directive('nkNavBarFooter', function () {
         return {
 
             restrict: 'AE',
