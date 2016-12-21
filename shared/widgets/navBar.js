@@ -1,5 +1,5 @@
 /**
- * Created by nakulchawla on 11/10/16.
+ * Created by rudasaha on 12/21/16.
  */
 (function () {
     angular.module('appRudra').directive('nkNavBar', function () {
