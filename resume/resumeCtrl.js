@@ -4,7 +4,7 @@
 
 (function(){
    'use strict';
-    angular.module('appNakul').controller('resumeCtrl',['$scope','$rootScope','$routeParams','$route', function($scope,$rootScope,$routeParams,$route){
+    angular.module('appRudra').controller('resumeCtrl',['$scope','$rootScope','$routeParams','$route', function($scope,$rootScope,$routeParams,$route){
 
     }]);
 
