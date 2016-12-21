@@ -1,6 +1,6 @@
 (function(){
    'use strict';
-    angular.module('appNakul').controller('indexCtrl', function ($rootScope){
+    angular.module('appRudra').controller('indexCtrl', function ($rootScope){
 
         $rootScope.spinning = false;
     });
