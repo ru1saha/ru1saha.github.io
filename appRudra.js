@@ -1,6 +1,6 @@
 (function () {
     'use strict';
-    angular.module('appNakul', ['ngRoute' ])
+    angular.module('appRudra', ['ngRoute' ])
         .config(function ($routeProvider) {
             $routeProvider.when('/home', {
                 title: 'Home',
