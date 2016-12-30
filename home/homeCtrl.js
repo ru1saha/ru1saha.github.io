@@ -6,9 +6,13 @@
 
         function init(){
 
+            if (typeof $.fn.fullpage.destroy == 'function') {
+                $.fn.fullpage.destroy('all');
+            }
+
             $('#fullpage').fullpage();
 
-        //    https://github.com/alvarotrigo/fullPage.js
+           // https://github.com/alvarotrigo/fullPage.js
         }
 
 
