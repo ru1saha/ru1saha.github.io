@@ -3,7 +3,7 @@
     angular.module('appRudra', ['ngRoute' ])
         .config(function ($routeProvider) {
             $routeProvider.when('/home', {
-                title: 'Home',
+                title: 'Rudra Saha',
                 templateUrl: 'home/home.html',
                 controller: 'homeCtrl'
             })
@@ -11,6 +11,11 @@
                     title: 'Resume',
                     templateUrl: 'resume/resume.html',
                     controller: 'resumeCtrl'
+                })
+                .when('/about', {
+                    title: 'About me...',
+                    templateUrl: 'about/about.html',
+                    controller: 'aboutCtrl'
                 })
 
                 .otherwise({
