@@ -15,7 +15,7 @@ h3{
 section p {
     max-width: 500px;
     margin: 0 auto;
-    padding: 10px;
+    /*padding: 10px;*/
     color: #000;
 }
 p {
@@ -23,11 +23,13 @@ p {
     font-size: 20px;
     color: #000;
 }
-user agent stylesheet
-p {
-    display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-}
+/*user agent stylesheet*/
+/*p {*/
+    /*display: block;*/
+    /*-webkit-margin-before: 1em;*/
+    /*-webkit-margin-after: 1em;*/
+    /*-webkit-margin-start: 0px;*/
+    /*-webkit-margin-end: 0px;*/
+/*}*/
+
+

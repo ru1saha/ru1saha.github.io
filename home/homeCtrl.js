@@ -10,7 +10,10 @@
                 $.fn.fullpage.destroy('all');
             }
 
-            $('#fullpage').fullpage();
+            $('#fullpage').fullpage({
+                scrollBar: true
+            });
+
 
            // https://github.com/alvarotrigo/fullPage.js
         }
