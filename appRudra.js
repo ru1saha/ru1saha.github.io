@@ -14,7 +14,7 @@
                 })
                 .when('/about', {
                     title: 'About me...',
-                    templateUrl: 'about/about.html',
+                    templateUrl: 'about/aboutme.html',
                     controller: 'aboutCtrl'
                 })
 
