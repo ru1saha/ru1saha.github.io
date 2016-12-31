@@ -23,13 +23,12 @@ p {
     font-size: 20px;
     color: #000;
 }
-/*user agent stylesheet*/
-/*p {*/
-    /*display: block;*/
-    /*-webkit-margin-before: 1em;*/
-    /*-webkit-margin-after: 1em;*/
-    /*-webkit-margin-start: 0px;*/
-    /*-webkit-margin-end: 0px;*/
-/*}*/
+
+nav {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: #e6e6ff;
+    text-align: left;
+    margin-top: 16px;
+}
 
 
