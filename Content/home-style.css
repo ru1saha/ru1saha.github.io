@@ -25,9 +25,17 @@ p {
     color: #000;
 }
 
+img {
+    align-content: center;
+    height: 200px;
+    width: 200px;
+    padding: 0;
+    border-radius: 300px;
+    margin-left: 2em;
+    margin-right: auto;
+}
 nav {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    background-color: #e6e6ff;
     text-align: left;
     margin-top: 16px;
 }
