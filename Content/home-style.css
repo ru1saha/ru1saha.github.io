@@ -169,3 +169,15 @@ nav {
     margin-bottom: 0;
 }
 
+.panel-footer {
+    padding: 10px 15px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+footer {
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
